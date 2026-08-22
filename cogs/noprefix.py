@@ -75,15 +75,18 @@ class Prefixless(commands.Cog):
                 "Bir tane yakalım.🚬",
             ],
 
-            ("anani", "ananı"): [
-                "Ben de senin ananı... Neyse. Seviyeni düşürmeyeceğim.😤"
-            ],
-
             ("balkondan", "talon", "balkon"): [
                 "https://media.discordapp.net/attachments/1358927968944259285/1401962206047899759/image.gif?ex=6a867fcd&is=6a852e4d&hm=aea05a39d9de614a1dea3cebd4289becab6044ef738068c40e677c7de194aa2f&=",       
             ],
 
-            ("bira", "bira içiyorum", "bira iciyorum", "beer"): [
+            ("bira ver", "bir bira", "bana bira", "bira lazım", "bira lazim", "bi bira", ): [
+                "Al. Buz gibi.🍺",
+                "Bir tane mi? Komik olma.",
+                "Dolapta var. Git kendin al.",
+                "Sana bira vereceğim de... önce hak et.",
+            ],
+
+            ("bira", "bira içiyorum", "bira iciyorum", "beer",): [
                 "Buz gibi bira nerede?🍺",
                 "Bir bira aç da kendime geleyim.",
                 "Sigaranın yanına bira lazım.😤",
@@ -91,11 +94,10 @@ class Prefixless(commands.Cog):
                 "Soğuk olsun. Ilık bira içmem.🍺",
             ],
 
-            ("bira ver", "bir bira", "bana bira", "bira lazım", "bira lazim"): [
-                "Al. Buz gibi.🍺",
-                "Bir tane mi? Komik olma.",
-                "Dolapta var. Git kendin al.",
-                "Sana bira vereceğim de... önce hak et.",
+            ("efes pilsen",): [
+                "Efes Pilsen. Klasik.🍺",
+                "Buzdolabında varsa getir.",
+                "Efes Pilsen açıldıysa ben hazırım.",
             ],
 
             ("efes",): [
@@ -105,11 +107,6 @@ class Prefixless(commands.Cog):
                 "Soğuk Efes'e hayır demem.",
             ],
 
-            ("efes pilsen",): [
-                "Efes Pilsen. Klasik.🍺",
-                "Buzdolabında varsa getir.",
-                "Efes Pilsen açıldıysa ben hazırım.",
-            ],
 
             ("tuborg", "tuborg gold"): [
                 "Tuborg Gold mu? Şimdi ciddi konuşuyoruz.🍺",
