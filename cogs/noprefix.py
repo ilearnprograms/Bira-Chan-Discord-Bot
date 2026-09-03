@@ -138,11 +138,11 @@ class Prefixless(commands.Cog):
                 "Guinness içip hayatı sorgulama vakti. Bir de sigara tabii..",
             ],
             ("kedi", "cat", "miyav", "meow", "kedisi",): [
-                "Miyav. Şimdi sigaramı ver.",
+                "Miyav. Sigaramı ver.",
                 "Kedi değilim. Ben profesyonelim.",
                 "Miyav mı? Bira getir.",
                 "Hmph. Miyav.",
-                "Ne var",
+                "Ne var? Sigara uzat.🚬",
                 "Biri bana mı seslendi?",
             ]
             
