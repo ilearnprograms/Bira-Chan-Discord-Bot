@@ -56,11 +56,16 @@ class Prefixless(commands.Cog):
                 "Parliament içenlerin cebinde kesin çakmak vardır.",
                 "Bir tane ver de konuşalım.🚬",
             ],
+            ("seko", 'serkan",'): [
+                "Serkan mı? Sigaraları saklayın!",
+                "Seko bi bira getirsene oğluşum.",
+                "Seko geldiyse ben kaçar moruk.. Adamda fena sırt var.",
+            ],
 
             ("camel",): [
                 "Deve mi? Yoksa sigara mı?",
                 "Camel görünce çöl susuzluğu geliyor.😤",
-                "Bir Camel yakılır şimdi.🚬",
+                "Bir Camel yakılır valla şimdi.🚬",
             ],
 
             ("winston",): [
@@ -71,8 +76,8 @@ class Prefixless(commands.Cog):
 
             ("kent",): [
                 "Kent. Sessiz ama tehlikeli.",
-                "Kent mi? Hmph.😤",
-                "Bir tane yakalım.🚬",
+                "Kent mi? Hmph. Ucuz işi 😤",
+                "Bir tane yakalım. 🚬",
             ],
 
             ("balkondan", "talon", "balkon"): [
@@ -80,28 +85,28 @@ class Prefixless(commands.Cog):
             ],
 
             ("bira ver", "bir bira", "bana bira", "bira lazım", "bira lazim", "bi bira", ): [
-                "Al. Buz gibi.🍺",
+                "Al. Buz gibi. 🍺",
                 "Bir tane mi? Komik olma.",
                 "Dolapta var. Git kendin al.",
                 "Sana bira vereceğim de... önce hak et.",
             ],
 
             ("bira", "bira içiyorum", "bira iciyorum", "beer",): [
-                "Buz gibi bira nerede?🍺",
+                "Buz gibi bira nerede? 🍺",
                 "Bir bira aç da kendime geleyim.",
-                "Sigaranın yanına bira lazım.😤",
-                "Bira mı? Şimdi konuşmaya başladık.🍺",
-                "Soğuk olsun. Ilık bira içmem.🍺",
+                "Sigaranın yanına bira lazım. 😤",
+                "Bira mı? Şimdi konuşmaya başladık. 🍺",
+                "Soğuk olsun. Ilık bira içmem. 🍺",
             ],
 
-            ("efes pilsen",): [
-                "Efes Pilsen. Klasik.🍺",
+            ("pilsen",): [
+                "Efes Pilsen. Klasik. 🍺",
                 "Buzdolabında varsa getir.",
                 "Efes Pilsen açıldıysa ben hazırım.",
             ],
 
             ("efes",): [
-                "Efes mi? Türkiye'nin final boss'u.🍺",
+                "Efes mi? Türkiye'nin final boss'u. 🍺",
                 "Bir Efes açılır şimdi.",
                 "Efes + sigara = klasik.",
                 "Soğuk Efes'e hayır demem.",
@@ -109,13 +114,13 @@ class Prefixless(commands.Cog):
 
 
             ("tuborg", "tuborg gold"): [
-                "Tuborg Gold mu? Şimdi ciddi konuşuyoruz.🍺",
+                "Tuborg Gold mu? Şimdi ciddi konuşuyoruz. 🍺",
                 "Bir Tuborg aç da ortam düzelsin.",
-                "Tuborg görünce sigara yakasım geliyor.😤",
+                "Tuborg görünce sigara yakasım geliyor. 😤",
             ],
 
             ("bomonti",): [
-                "Bomonti mi? Havalı takılmaya başladık.🍺",
+                "Bomonti mi? Havalı takılmaya başladık. 🍺",
                 "Bomonti + balkon + sigara.",
                 "Bir Bomonti açılır şimdi.",
             ],
@@ -123,7 +128,7 @@ class Prefixless(commands.Cog):
             ("corona",): [
                 "Corona mı? Bira olanından bahsediyorsun umarım.",
                 "Corona + limon? Hmph.",
-                "Buz gibi Corona fena gitmez.🍺",
+                "Buz gibi Corona fena gitmez. 🍺",
             ],
 
             ("heineken",): [
@@ -142,7 +147,7 @@ class Prefixless(commands.Cog):
                 "Kedi değilim. Ben profesyonelim.",
                 "Miyav mı? Bira getir.",
                 "Hmph. Miyav.",
-                "Ne var? Sigara uzat.🚬",
+                "Ne var? Sigara uzat. 🚬",
                 "Biri bana mı seslendi?",
             ]
             
