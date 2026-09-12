@@ -60,6 +60,7 @@ class Prefixless(commands.Cog):
                 "Serkan mı? Sigaraları saklayın!",
                 "Seko bi bira getirsene oğluşum.",
                 "Seko geldiyse ben kaçar moruk.. Adamda fena sırt var.",
+                "Asıl chainsmoker biziz aga, 40 fırın ekmek ye de gel.",
             ],
 
             ("camel",): [
