@@ -12,7 +12,7 @@ class TurkSigara(commands.Cog):
 
     @commands.command(name= "turksigara",aliases= ['sigara','cigara','türksigara'])
     async def turksigara(self, ctx):
-        await ctx.send("Sigarlar yakılıyor. Birkaç saniye bekle.")
+        await ctx.send("Bi saniye cnm, sigarlar yakılıyor.")
 
         # setting up headless chrome
         options = Options()
