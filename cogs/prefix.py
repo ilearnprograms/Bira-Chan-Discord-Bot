@@ -21,7 +21,7 @@ class Fun(commands.Cog):
             "!turkbira, !bira !tuborg veya !efes — Rastgele bir turkbira.net resmi çağırır. 🍺\n\n"
             "Hepsi bu kadar. Bu arada, bi sigara var mı be? 🙄"
             "```\n")
-        await ctx.send("https://klipy.com/gifs/yani-neko-chainsmoker-cat")
+        #await ctx.send("https://klipy.com/gifs/yani-neko-chainsmoker-cat")
 
 async def setup(bot):
     await bot.add_cog(Fun(bot))
